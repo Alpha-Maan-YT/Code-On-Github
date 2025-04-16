@@ -1,8 +1,8 @@
-<html>
-<head>
-<title>Snake-in-Nokia</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<style type="text/css">
+
+
+
+<body bgcolor="#1e1f22">
+ <style type="text/css">
 .s0 { color: #cf8e6d;}
 .s1 { color: #bcbec4;}
 .s2 { color: #7a7e85;}
@@ -11,8 +11,6 @@
 .s5 { color: #6aab73;}
 .ln { color: #4b5059; font-weight: normal; font-style: normal; }
 </style>
-</head>
-<body bgcolor="#1e1f22">
 <table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
 <tr><td><center>
 <font face="Arial, Helvetica" color="#000000">
