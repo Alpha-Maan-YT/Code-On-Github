@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>main.py</title>
+<title>Snake-in-Nokia</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
 .s0 { color: #cf8e6d;}
@@ -16,7 +16,7 @@
 <table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
 <tr><td><center>
 <font face="Arial, Helvetica" color="#000000">
-main.py</font>
+Snake-in-nokia-game</font>
 </center></td></tr></table>
 <pre><a name="l1"><span class="ln">1    </span></a><span class="s0">import </span><span class="s1">pygame</span>
 <a name="l2"><span class="ln">2    </span></a><span class="s0">import </span><span class="s1">time</span>
